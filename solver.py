@@ -78,6 +78,6 @@ def backtrack_solve(bo):
 
 print_board(board)
 backtrack_solve(board)
-print("     ")
+print("")
 print_board(board)
 
